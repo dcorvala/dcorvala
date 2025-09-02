@@ -1,5 +1,17 @@
 # 💫 About Me:
-Actualmente me encuentro trabajando como docente en la cátedra<br>de matemáticas del Ciclo Básico Común de la Universidad de Buenos Aires. También <br>estoy como docente asistente en la Universidad Nacional de General Sarmiento en <br>el Instituto de Ciencias. Además trabajo como docente de Introducción<br>a la programación y análisis de datos para la Secretaría de Extensión<br>Universitaria de la Universidad de Buenos Aires en la localidad de<br>9 de Julio Provincia. de Buenos Aires.<br>tengo mucha experiencia académica y me gustaría implementar mis conocimientos<br>en el ámbito privado para seguir aprendiendo y mejorando mis habilidades.<br> Estoy terminando la licenciatura en Ciencias Físicas en la Universidad de Buenos Aires<br>lo que me ha dado conocimientos en manejo y análisis de datos, además de<br>contar con conocimientos matemáticos lo que facilita el trabajo<br>en el tratamiento de problemas de cálculo y experimentales.<br>Disfruto mucho el trabajo en equipo y la programación se ha vuelto <br>indispensable en el ámbito de la ciencia y además se ha convertido<br>en un pasatiempo interesante.<br> 
+<div align="center">
+
+**Soy docente de matemáticas en el Ciclo Básico Común de la UBA y docente asistente en la UNGS (Instituto de Ciencias).  
+También doy clases de Introducción a la Programación y Análisis de Datos en la Secretaría de Extensión Universitaria de la UBA en 9 de Julio, Provincia de Buenos Aires.  
+
+Tengo mucha experiencia académica y me interesa llevar mis conocimientos al ámbito privado para seguir aprendiendo y mejorando mis habilidades.  
+
+Estoy finalizando la Licenciatura en Ciencias Físicas en la UBA, lo que me dio una fuerte base en análisis de datos y matemáticas, claves para resolver problemas de cálculo y experimentales.  
+
+Me gusta trabajar en equipo y descubrí que la programación no solo es esencial en la ciencia, sino que también se transformó en un pasatiempo que disfruto mucho.**
+
+</div>
+
 
 
 ## 🌐 Socials:
