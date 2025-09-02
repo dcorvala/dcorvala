@@ -6,7 +6,7 @@ También doy clases de Introducción a la Programación y Análisis de Datos en 
 
 Tengo mucha experiencia académica y me interesa llevar mis conocimientos al ámbito privado para seguir aprendiendo y mejorando mis habilidades.  
 
-Estoy finalizando la Licenciatura en Ciencias Físicas en la UBA, lo que me dio una fuerte base en análisis de datos y matemáticas, claves para resolver problemas de cálculo y experimentales.  
+Carrera de Licenciatura en Ciencias Físicas en la UBA, lo que me dio una fuerte base en análisis de datos y matemáticas, claves para resolver problemas de cálculo y experimentales.  
 
 Me gusta trabajar en equipo y descubrí que la programación no solo es esencial en la ciencia, sino que también se transformó en un pasatiempo que disfruto mucho.**
 
